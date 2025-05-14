@@ -8,6 +8,4 @@ I'm Full Stack Solution Architect The crossover between design and programming h
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [aadsule5@gmail.com](mailto:aadsule5@gmail.com)
-* 🧠  I'm learning Blockchain
-* 🤝  I'm open to collaborating on CRM
 * ⚡  I'm secretly learning neuro-science
